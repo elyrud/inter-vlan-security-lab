@@ -4,15 +4,15 @@
 Implement VLAN segmentation with secure communication between departments.
 
 ## Current Topology
-2 Switches
-1 Router
-4 PC's
+- 2 Switches
+- 1 Router
+- 4 PC's
 
 ## VLANs
-VLAN 10: Department A = HR
-VLAN 20: Department B = Finance 
-VLAN 30: IT
-VLAN 40: Guest
+- VLAN 10: Department A = HR
+- VLAN 20: Department B = Finance 
+- VLAN 30: IT
+- VLAN 40: Guest
 
 ## Planned Security Controls
 - Inter-VLAN routing
@@ -25,4 +25,4 @@ VLAN 40: Guest
 - Guest network isolated
 - Unauthorised access is blocked
 
-- Un
+WORK STILL IN PROGRESS
