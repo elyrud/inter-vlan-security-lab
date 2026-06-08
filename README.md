@@ -9,10 +9,10 @@ Implement VLAN segmentation with secure communication between departments.
 4 PC's
 
 ## VLANs
-VLAN 10 - Department A = HR
-VLAN 20 - Department B = Finance 
-VLAN 30 - IT
-VLAN 40 - Guest
+VLAN 10: Department A = HR
+VLAN 20: Department B = Finance 
+VLAN 30: IT
+VLAN 40: Guest
 
 ## Planned Security Controls
 - Inter-VLAN routing
